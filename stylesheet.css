@@ -1,0 +1,38 @@
+div {
+    margin: auto;
+    padding: 10px;
+    width: 225px;
+}
+
+
+
+.bgc{
+    background-color: #D2B48C;
+}
+
+h1{
+    font-family: Arial, 'Times New Roman', serif;
+    font-size: 32px;
+}
+
+img{
+    width: 70%;
+    height: 50%;
+}
+
+h1, h2 {
+    color: #B22222;
+}
+
+li, p {
+    color: #8B008B;
+}
+
+footer {
+    text-align: left;
+}
+
+a:link {color: orange;}
+a:visited {color: #00008B}
+a:hover {color: #A52A2A;}
+a:active {color: #FFD700;}
